@@ -1,0 +1,53 @@
+body{
+    text-align: center;   
+    font-family: 'Alegreya'; 
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+img{
+    width: 100%;
+}
+
+h1{
+    font-weight: 900;
+    font-size: 4.5rem;
+}
+
+h4{
+    font-weight: bold;
+}
+
+/* Title Section */
+#title{
+    padding: 7%;
+    /* background-color: #ff4c68; */
+    width: 100%;
+}
+
+/* Image Grid Container */
+#characters{
+    padding-top: 2%;
+}
+
+.row{
+    margin: 0;
+}
+
+/* Footer */
+#footer{
+    padding: 7%;
+    /* background-color: #e84a5f; */
+    color: #9a1f40;
+}
+.icon-foot{
+    font-size: 2rem;
+    margin: 2%;
+}
+
+.icon-foot:hover{
+    cursor: pointer;
+    color: black;
+}
